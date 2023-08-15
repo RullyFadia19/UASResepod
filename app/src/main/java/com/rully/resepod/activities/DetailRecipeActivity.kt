@@ -148,64 +148,64 @@ class DetailRecipeActivity : AppCompatActivity() {
 // buat masukin data yang udah diambil ke tv ingredients sama measurename
                                     //set Ingredients
                                     if (dataApi.strIngredient1.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient1)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient1)
                                     }
                                     if (dataApi.strIngredient2.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient2)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient2)
                                     }
                                     if (dataApi.strIngredient3.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient3)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient3)
                                     }
                                     if (dataApi.strIngredient4.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient4)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient4)
                                     }
                                     if (dataApi.strIngredient5.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient5)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient5)
                                     }
                                     if (dataApi.strIngredient6.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient6)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient6)
                                     }
                                     if (dataApi.strIngredient7.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient7)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient7)
                                     }
                                     if (dataApi.strIngredient8.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient8)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient8)
                                     }
                                     if (dataApi.strIngredient9.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient9)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient9)
                                     }
                                     if (dataApi.strIngredient10.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient10)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient10)
                                     }
                                     if (dataApi.strIngredient11.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient11)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient11)
                                     }
                                     if (dataApi.strIngredient12.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient12)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient12)
                                     }
                                     if (dataApi.strIngredient13.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient13)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient13)
                                     }
                                     if (dataApi.strIngredient14.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient14)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient14)
                                     }
                                     if (dataApi.strIngredient15.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient15)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient15)
                                     }
                                     if (dataApi.strIngredient16.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient16)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient16)
                                     }
                                     if (dataApi.strIngredient17.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient17)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient17)
                                     }
                                     if (dataApi.strIngredient18.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient18)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient18)
                                     }
                                     if (dataApi.strIngredient19.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient19)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient19)
                                     }
                                     if (dataApi.strIngredient20.isNotEmpty()) {
-                                        tvIngredients.append("\n \u2023 " + dataApi.strIngredient20)
+                                        tvIngredients.append("\n \u2022 " + dataApi.strIngredient20)
                                     }
 
                                     //set StrMeasure
